@@ -1,0 +1,18 @@
+/* Challenge 03: change the colors! */
+body {
+  font-family: Arial, sans-serif;
+  /* TODO: choose a background-color and a color for the text */
+  background-color: #fff9d8; /* light yellow */
+  color: #4b3b32; /* orange-red */
+}
+
+/* TODO: write an h1 rule with color and text-align */
+h1 {
+  color: #e37428; /* orange-red */
+  text-align: center;
+}
+
+/* TODO: write an h2 rule with color */
+h2 {
+  color: #558b55; /* orange-red */
+}
